@@ -1,0 +1,5 @@
+./pre_img/Shahrukh Khan/ActiOn_21.png
+./pre_img/Yash Solanki/2019-02-13-151854.png 303 150 452 340
+./pre_img/Yash Solanki/2019-02-13-151850.png 308 147 456 334
+./pre_img/Yash Solanki/2019-02-13-151900.png 306 140 450 313
+./pre_img/Yash Solanki/2019-02-13-151845.png 305 151 450 324
